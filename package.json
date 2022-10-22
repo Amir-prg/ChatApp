@@ -1,6 +1,6 @@
 {
   "name": "chat-app",
-  "homepage": "https://amir-prg.github.io/ChatApp/",
+  "homepage": ".",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
