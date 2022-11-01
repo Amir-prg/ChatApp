@@ -3,12 +3,11 @@ import "firebase/auth";
 
 export const auth = firebase
   .initializeApp({
-    apiKey: "AIzaSyDRE9z7KW-LyRRh5Qa5-MyuXbb181-IbdE",
-    authDomain: "botogram-abbc4.firebaseapp.com",
-    projectId: "botogram-abbc4",
-    storageBucket: "botogram-abbc4.appspot.com",
-    messagingSenderId: "331709372830",
-    appId: "1:331709372830:web:493812a421ce53e233de8f",
-    measurementId: "G-BPS2WGH7QK",
+    apiKey: "AIzaSyCnbva9-1SKvqKqYvg2rYXavV_9Ht3luGw",
+    authDomain: "botogram-app.firebaseapp.com",
+    projectId: "botogram-app",
+    storageBucket: "botogram-app.appspot.com",
+    messagingSenderId: "999420741035",
+    appId: "1:999420741035:web:d7e6327a08c6058fbb3eee"
   })
   .auth();
